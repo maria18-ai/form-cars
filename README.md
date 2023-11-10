@@ -14,8 +14,7 @@ NODE JS
 
 Para clonar o repositorio, basta copiar a URL no botão code do github: 
 
-![SELLCARCODE](https://github.com/maria18-ai/sellCar/assets/131560480/499419c6-ebf2-44eb-a03d-634134c33961)
-
+![SELLCAR](https://github.com/maria18-ai/form-cars/assets/131560480/dc4eec54-f6e3-49e0-9546-308a82efe53c)
 
 
 Depois disso, basta dar o comando git clone no terminal com a URL copiada: 
